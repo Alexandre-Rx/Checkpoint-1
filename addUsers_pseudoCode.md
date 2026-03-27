@@ -9,7 +9,7 @@
 **POUR CHAQUE** nom d'utilisateur passé en argument 
 **FAIRE**
 
-  **SI** le nom dutilisateur est trouvé dans le fichier système des utilisateurs (/etc/passwd) **ALORS**
+  **SI** le nom dutilisateur est trouvé dans le fichier système des utilisateurs **ALORS**
         Afficher le message : "L'utilisateur ... existe déjà"
 
   **SINON**
